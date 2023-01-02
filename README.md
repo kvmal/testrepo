@@ -1,4 +1,4 @@
 # testrepo
 
 
-## editing this file
+## taking the courcse cource Getting started with Git
