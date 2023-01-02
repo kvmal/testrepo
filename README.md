@@ -1,4 +1,4 @@
 # testrepo
 
 
-## taking the courcse cource Getting started with Git
+## taking the course cource Getting started with Git
